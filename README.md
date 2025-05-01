@@ -19,7 +19,7 @@ Soy Ingeniero de Sistemas, me encuentro reforzando y puliendo mis conocimientos 
 
 ## Mis habilidades incluyen
 
-<h4> Languages </h4>
+<h4> Lenguages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -50,7 +50,7 @@ Soy Ingeniero de Sistemas, me encuentro reforzando y puliendo mis conocimientos 
 <a href="https://www.twitch.tv/josereyees__" >
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
-<a href="https://www.youtube.com/watch?v=hj6sgZGxN_s">
+<a href="https://www.youtube.com/watch?v=hj6sgZGxN_s" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 <a href="https://www.linkedin.com/in/josereyes011/">
